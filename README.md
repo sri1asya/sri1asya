@@ -1,4 +1,12 @@
-## Hi there 👋
+# 👋 About Me
+
+- 🎓 MS in Data Science student at DePaul University with a concentration in Computational Methods
+- 🔭 BSc in Astrophysics from UIUC
+
+## 📊 My Projects:
+
+## 📫 Contact Me:
+
 
 <!--
 **sri1asya/sri1asya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
