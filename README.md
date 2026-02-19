@@ -4,7 +4,7 @@
 - 🔭 BSc in Astrophysics from UIUC
 
 ## 📊 My Projects:
-
+- Predicting Steam Game Prices with Machine Learning (AWS Project)
 ## 📫 Contact Me:
 
 
