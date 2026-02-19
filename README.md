@@ -4,7 +4,7 @@
 - 🔭 BSc in Astrophysics from UIUC
 
 ## 📊 My Projects:
-- Predicting Steam Game Prices with Machine Learning (AWS Project)
+- 🎮 [Predicting Steam Game Prices with Machine Learning](https://github.com/sri1asya/steam-game-prices-aws) (AWS Project)
 ## 📫 Contact Me:
 
 
